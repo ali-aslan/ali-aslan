@@ -37,8 +37,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" with="50" height="50" alt="react" ></a>
     <a href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" ></a>
-    <a href="https://aws.amazon.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" with="50" height="50" alt="aws" ></a>
   <a href="https://www.docker.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" with="50" height="50" alt="docker" ></a>
   <a href="https://www.mongodb.com/">
@@ -49,10 +47,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" with="50" height="50" alt="sqlserver" > </a>
   <a href="https://www.rabbitmq.com/">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" with="50" height="50" alt="rabbitmq" ></a>
-    <a href="https://unity.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" with="50" height="50" alt="unity" ></a>
-        <a href="https://firebase.google.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" with="50" height="50" alt="firebase" ></a>
 </p>
 
 ## Connect with me:
