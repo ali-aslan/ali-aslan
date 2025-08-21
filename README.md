@@ -12,7 +12,7 @@
 
 * 🔭 I'm currently working on Net 2.2/8 & NextJs
 
-* 🌱 Currently learning Design Patterns, Next.js, Microservices, and AWS.
+* 🌱 Currently learning Design Patterns, Next.js, Microservices, and Azure Services.
 
 * 💬 Ask me about Net 2.2/8, React, Angular
 
